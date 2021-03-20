@@ -1,10 +1,10 @@
-# React app for tracking cryptocurrency market data with CoinGecko API
+## React app for tracking cryptocurrency market data with CoinGecko API
 
 * Searchbox to search for specific currency
 * Used Axios for HTTP requests
 * Also deployed on GH Pages!
 
-## Result: 
+### Result: 
 ![picture](src/img/cryptotracker.png)
 
 # Getting Started with Create React App
