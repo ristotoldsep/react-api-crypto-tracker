@@ -1,3 +1,11 @@
+# React app for tracking cryptocurrency market data with CoinGecko API
+
+* Used Axios for HTTP requests
+* Also deployed on GH Pages!
+
+## Result: 
+![picture](src/img/cryptotracker.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
